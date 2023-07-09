@@ -1,0 +1,2 @@
+I had difficulty and solving this challenge, particularly with the main image hover icon. I used Position to solve this problem, but I feel this isn't the correct way.
+I'll come back to this challenge later to try to solve in the right way.
